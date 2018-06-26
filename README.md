@@ -1,2 +1,4 @@
 # GitHub-Exercise
-Testing github
+First push
+
+GitHub update!
